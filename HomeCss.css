@@ -1,0 +1,112 @@
+.youtube{
+	margin-right: 350px;
+    margin-left: 0px;
+    margin-top:0px;
+    z-index: 1;
+    position: relative;
+}
+#map {
+        
+        height: 300px;
+        width: 650px;
+        margin-left:-300px; 
+        margin-right: 100%;
+        
+      }
+
+body{
+margin-left:20;
+margin-top: 0px;
+min-width:700px;
+background: url("elebg.jpg");
+background-repeat:no-repeat;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+      min-height: 500px;
+    background-attachment: fixed;
+
+
+}
+a:link{color: grey;}
+a:visited{color: #0000ff;}
+a.hover{color: #999;}
+
+#Logo{
+  margin-top: 50px;
+}
+#headname{
+margin-left: 120px;
+margin-top: -170px;
+margin-right: 50px;
+}
+.carousel {
+    position: relative;
+    z-index: -1;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+     width:80%;
+     margin: auto;
+height:450px;
+z-index: -1; 
+  }
+.container,.slides li img{
+/*margin-left:x 120px;
+margin-top: 150px;
+margin-right: 500px;*/
+width:100%;
+height:450px;
+/*z-index: 0;*/
+}
+.flexslider{
+	border: 2;
+}
+h3{
+  font-size: 24px;
+}
+
+.tab{
+margin-top: :550px;
+margin-left: 50px;
+}
+.gdlr-navigation{
+	display: block;
+
+}
+.back-to-top {
+ 
+background: none;
+ 
+margin: 0;
+ 
+position: fixed;
+ 
+bottom: 0;
+ 
+right: 0;
+ 
+width: 70px;
+ 
+height: 70px;
+ 
+z-index: 100;
+ 
+display: none;
+ 
+text-decoration: none;
+ 
+color: #fff000;
+ 
+background-color: grey;
+ 
+}
+ 
+  
+ 
+.back-to-top i {
+ 
+  font-size: 60px;
+ 
+}
